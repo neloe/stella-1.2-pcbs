@@ -524,7 +524,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "gerbers/",
+      "plot": "pdf/",
       "specctra_dsn": "",
       "vrml": ""
     },

@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "RS_Components") (type "KiCad") (uri "${KIPRJMOD}/RS_Components.pretty") (options "") (descr ""))
+)
