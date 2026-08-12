@@ -1,12 +1,12 @@
-%TF.GenerationSoftware,KiCad,Pcbnew,10.0.4*%
-%TF.CreationDate,2026-07-17T16:56:52-05:00*%
+%TF.GenerationSoftware,KiCad,Pcbnew,10.0.5*%
+%TF.CreationDate,2026-08-12T10:15:01-05:00*%
 %TF.ProjectId,stella-1.2-permaproto-replacement,7374656c-6c61-42d3-912e-322d7065726d,rev?*%
 %TF.SameCoordinates,Original*%
 %TF.FileFunction,Soldermask,Top*%
 %TF.FilePolarity,Negative*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 10.0.4) date 2026-07-17 16:56:52*
+G04 Created by KiCad (PCBNEW 10.0.5) date 2026-08-12 10:15:01*
 %MOMM*%
 %LPD*%
 G01*
@@ -48,7 +48,7 @@ G04 Aperture macros list end*
 G04 APERTURE END LIST*
 D10*
 %TO.C,FlatCouplerJig*%
-X84080000Y-100430000D03*
+X83820000Y-100530000D03*
 %TD*%
 D11*
 %TO.C,U3*%
@@ -130,8 +130,8 @@ X114300000Y-85090000D03*
 %TD*%
 D19*
 %TO.C,SW2*%
-X191020000Y-114300000D03*
-X191020000Y-119600000D03*
+X191020000Y-114400000D03*
+X191020000Y-119700000D03*
 %TD*%
 D20*
 %TO.C,A1*%
