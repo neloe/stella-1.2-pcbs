@@ -1948,7 +1948,7 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "STELLA-1.2 Remote Sensing Permaproto Replacement PCB v0.1.1\n2026\nLayout by Nathan Eloe\nShould line up with original permaproto component placement"
+	(gr_text "STELLA-1.2 Remote Sensing Permaproto Replacement PCB v0.1.1\n2026\nNASA STELLA-1.2 created by Paul Mirel\nPCBLayout by Nathan Eloe\n"
 		(at 107 125 0)
 		(layer "F.SilkS")
 		(uuid "a56a2110-8baa-437d-aecf-d4ee43ff928d")

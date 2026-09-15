@@ -4157,8 +4157,8 @@
 			(justify left bottom mirror)
 		)
 	)
-	(gr_text "STELLA-1.2 Base Permaproto Replacement PCB v0.1.1\n2026\nLayout by Nathan Eloe\nShould line up with original permaproto component placement"
-		(at 193.5 84 0)
+	(gr_text "STELLA-1.2 Base Permaproto Replacement PCB v0.1.1\n2026\nNASA STELLA-1.2 created by Paul Mirel\nPCB Layout by Nathan Eloe"
+		(at 229.5 84 0)
 		(layer "B.SilkS")
 		(uuid "8be967cb-aaa0-41d0-b7a3-dac621dca0a4")
 		(effects
@@ -4166,7 +4166,7 @@
 				(size 1 1)
 				(thickness 0.1)
 			)
-			(justify bottom mirror)
+			(justify left bottom mirror)
 		)
 	)
 	(gr_text "A1\nAdafruit 5447\nESP32-S3 Feather, 4MB Flash 2MB PSRAM\nLong pins through Feather"
