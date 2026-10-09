@@ -2275,6 +2275,7 @@
 		(property "Reference" "A1"
 			(at 10.16 7.62 90)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "54708952-367a-47f6-8471-a0f519336aaf")
 			(effects
 				(font
@@ -3019,6 +3020,7 @@
 			(at 0 0.5 180)
 			(unlocked yes)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "ea7a4683-09b6-430b-b4d5-2f6c312ec9d9")
 			(effects
 				(font
@@ -3799,6 +3801,7 @@
 			(at 0 0.5 0)
 			(unlocked yes)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "563bce73-d2df-43bc-98ac-3d9daff720c4")
 			(effects
 				(font
@@ -4201,8 +4204,8 @@
 			(justify bottom mirror)
 		)
 	)
-	(gr_text "A1\nAdafruit 5447\nESP32-S3 Feather, 4MB Flash 2MB PSRAM\nLong pins through Feather"
-		(at 212.5 102.945 0)
+	(gr_text "Adafruit 5447\nESP32-S3 Feather, 4MB Flash 2MB PSRAM\nLong pins through Feather"
+		(at 212.5 101.5 0)
 		(layer "B.SilkS")
 		(uuid "f1074079-3466-4500-b522-e7f51daff1cd")
 		(effects
