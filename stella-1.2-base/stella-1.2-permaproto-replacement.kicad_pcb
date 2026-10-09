@@ -96,6 +96,7 @@
 		(property "Reference" "FlatCouplerJig"
 			(at 2.42 0.07 90)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "9cc82bfe-c8d4-400e-af3b-ff4e8a8cfe6b")
 			(effects
 				(font
@@ -190,6 +191,7 @@
 			(at 0 -0.5 0)
 			(unlocked yes)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "98365b5c-5db9-47c7-b629-bd2b97282ea7")
 			(effects
 				(font
@@ -331,7 +333,7 @@
 		)
 		(property "Value" "10k"
 			(at 3.81 1.92 90)
-			(layer "F.Fab")
+			(layer "F.SilkS")
 			(uuid "a7e25811-07a3-47bd-bf25-9364ec9f65bf")
 			(effects
 				(font
@@ -511,6 +513,7 @@
 			(at 0 -0.5 270)
 			(unlocked yes)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "89bbf154-e556-473e-9636-f089fd3aeaf4")
 			(effects
 				(font
@@ -659,8 +662,8 @@
 			)
 		)
 		(property "Value" ".1uF"
-			(at 1.25 4.4 0)
-			(layer "F.Fab")
+			(at -3.52 0.02 180)
+			(layer "F.SilkS")
 			(uuid "a4197d8a-66f1-4f91-8ba7-0c83564924ca")
 			(effects
 				(font
@@ -800,6 +803,7 @@
 			(at 0 -0.5 180)
 			(unlocked yes)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "32cb5efe-b8cb-4084-86b4-1d8c3bec6e20")
 			(effects
 				(font
@@ -1085,6 +1089,7 @@
 			(at 0 -0.5 0)
 			(unlocked yes)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "61841c94-ad0a-4da1-94c8-21816bac9377")
 			(effects
 				(font
@@ -1323,6 +1328,7 @@
 			(at 0 -0.5 270)
 			(unlocked yes)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "12fdfaad-fa4b-4594-919c-9e28133ffb56")
 			(effects
 				(font
@@ -1460,7 +1466,7 @@
 		)
 		(property "Value" "10k"
 			(at 3.81 1.92 90)
-			(layer "F.Fab")
+			(layer "F.SilkS")
 			(uuid "7f67db57-ed9b-4ce3-a4f9-7e67d37f32c7")
 			(effects
 				(font
@@ -1651,7 +1657,7 @@
 		)
 		(property "Value" "10k"
 			(at 3.81 1.92 90)
-			(layer "F.Fab")
+			(layer "F.SilkS")
 			(uuid "53a5f8e7-a81c-4f04-8cee-10b47e02e03e")
 			(effects
 				(font
@@ -1832,7 +1838,8 @@
 			(at -6.706 -2.65 0)
 			(unlocked yes)
 			(layer "B.SilkS")
-			(uuid "2ad7a9ae-26c3-4d40-8329-2af2e7b55a15")
+			(hide yes)
+			(uuid "5b6a59ea-7f88-41a2-8f38-e749ed4e7ee3")
 			(effects
 				(font
 					(size 1 1)
@@ -1845,7 +1852,7 @@
 			(at -6.706 -2.65 0)
 			(unlocked yes)
 			(layer "B.Fab")
-			(uuid "548b4454-7c1d-4249-9581-c5c8a6147dff")
+			(uuid "e7969343-8748-42eb-b1d0-f2138e4ab805")
 			(effects
 				(font
 					(size 1 1)
@@ -1858,7 +1865,7 @@
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "ffb87519-f012-467e-baed-fd9c2567ced4")
+			(uuid "1e23a4ec-be19-4f3e-8caa-1d1c8d2e89d3")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1870,7 +1877,7 @@
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "22e716d5-08a4-4dd7-ab81-fcd2659eb1d6")
+			(uuid "b41ce9de-d5c4-4855-8400-0981a20d19ed")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3203,7 +3210,8 @@
 		(property "Reference" "SW1"
 			(at 3 4.75 90)
 			(layer "B.SilkS")
-			(uuid "284eb10e-070d-4b4f-8522-c4c399949c07")
+			(hide yes)
+			(uuid "7f372848-93e3-4a0f-954d-6d7d2abc5245")
 			(effects
 				(font
 					(size 1 1)
@@ -3215,7 +3223,7 @@
 		(property "Value" "RotaryEncoder_Switch"
 			(at 7.5 -11 90)
 			(layer "B.Fab")
-			(uuid "017a6540-45f5-4b67-a9cd-c3a477ced1cf")
+			(uuid "3064cde4-b957-47c6-9bb6-b7a0ca1b295b")
 			(effects
 				(font
 					(size 1 1)
@@ -3229,7 +3237,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "7eb1505a-40e2-4b77-94ef-0eca39cc306d")
+			(uuid "874af61e-10b1-43a9-a81c-39042aa9332c")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3243,7 +3251,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "0f7e68aa-bda3-49de-bcca-37191459a9e6")
+			(uuid "2349e443-bb2e-4a11-9060-c9e1b6a936e6")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4109,6 +4117,18 @@
 			(justify bottom)
 		)
 	)
+	(gr_text "Flat Coupler Jig"
+		(at 87 100.53 90)
+		(layer "F.SilkS")
+		(uuid "4c0bd865-75c0-4277-a133-7e2626338992")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify bottom)
+		)
+	)
 	(gr_text "Vin"
 		(at 89.916 114.554 0)
 		(layer "B.SilkS")
@@ -4157,16 +4177,28 @@
 			(justify left bottom mirror)
 		)
 	)
-	(gr_text "STELLA-1.2 Base Permaproto Replacement PCB v0.1.1\n2026\nNASA STELLA-1.2 created by Paul Mirel\nPCB Layout by Nathan Eloe"
-		(at 229.5 84 0)
+	(gr_text "POPO Switch"
+		(at 202.5 119.5 0)
 		(layer "B.SilkS")
-		(uuid "8be967cb-aaa0-41d0-b7a3-dac621dca0a4")
+		(uuid "12073bb8-7b44-47f3-99cf-e9672a105140")
 		(effects
 			(font
 				(size 1 1)
 				(thickness 0.1)
 			)
 			(justify left bottom mirror)
+		)
+	)
+	(gr_text "Rotary\nEncoder"
+		(at 177.5 99.5 0)
+		(layer "B.SilkS")
+		(uuid "da77381d-b8fa-4a6c-8100-1c3d8c93bf92")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify bottom mirror)
 		)
 	)
 	(gr_text "A1\nAdafruit 5447\nESP32-S3 Feather, 4MB Flash 2MB PSRAM\nLong pins through Feather"
@@ -4179,6 +4211,18 @@
 				(thickness 0.1)
 			)
 			(justify bottom mirror)
+		)
+	)
+	(gr_text "STELLA-1.2 Base PCB v0.1.1\n2026\nSTELLA-1.2 created by Paul Mirel, NASA Goddard\nPCB Layout by Nathan Eloe, Northwest Missouri State University"
+		(at 229.5 86 0)
+		(layer "B.SilkS")
+		(uuid "8be967cb-aaa0-41d0-b7a3-dac621dca0a4")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.15)
+			)
+			(justify left bottom mirror)
 		)
 	)
 	(segment
