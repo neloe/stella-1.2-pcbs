@@ -45,3 +45,4 @@ fp-info-cache
 # don't save gerbers in the repo; publish as releases
 gerber/
 gerbers/
+svg/
