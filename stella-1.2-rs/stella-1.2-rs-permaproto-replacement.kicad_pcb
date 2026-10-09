@@ -245,8 +245,9 @@
 		(descr "TO-39-4")
 		(tags "TO-39-4")
 		(property "Reference" "U3"
-			(at 0 -5.809999 225)
+			(at 0 -5.809999 45)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "c9128cf6-2853-411e-923b-dbc01a9e687e")
 			(effects
 				(font
@@ -256,7 +257,7 @@
 			)
 		)
 		(property "Value" "Surface Temp"
-			(at 0 5.809999 225)
+			(at 0 5.809999 45)
 			(layer "F.Fab")
 			(uuid "77063c6d-4402-4a48-9e4d-f1e8e4f79dba")
 			(effects
@@ -267,7 +268,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 225)
+			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "956476be-707d-496d-a1f2-b6ad4860feb1")
@@ -278,7 +279,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 225)
+			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "31e0ae6e-7d33-4c00-a9e7-050d89a662dd")
@@ -289,7 +290,7 @@
 			)
 		)
 		(property "KiLib_Generator" "package/TO_SOT/THT"
-			(at 0 0 225)
+			(at 0 0 45)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "51f67be7-2762-4692-b6ea-9607bd672564")
@@ -446,7 +447,7 @@
 			(uuid "eeb4fd02-12ff-45d0-b8d3-5c5c9e44cd40")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 -5.809999 225)
+			(at 0 -5.809999 45)
 			(layer "F.Fab")
 			(uuid "4446e09b-29e3-4bd7-9c97-c87d6486ddc2")
 			(effects
@@ -1893,6 +1894,18 @@
 		(layer "Edge.Cuts")
 		(uuid "341c6735-c363-4ff1-bd1e-1033e749c164")
 	)
+	(gr_text "Surface Temp"
+		(at 100.5 101 0)
+		(layer "F.SilkS")
+		(uuid "b0ffdcb2-df64-4eb1-87c1-8afa85dde7b7")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.1)
+			)
+			(justify bottom)
+		)
+	)
 	(gr_text "Rangefinder"
 		(at 86.5 88 0)
 		(layer "F.SilkS")
@@ -2037,8 +2050,8 @@
 			(justify bottom)
 		)
 	)
-	(gr_text "STELLA-1.2 RS PCB v 0.1.1\n2026\nSTELLA-1.2 created by Paul Mirel, NASA Goddard\nPCB Layout by Nathan Eloe, Northwest Missouri State University"
-		(at 105.5 124.5 0)
+	(gr_text "STELLA-1.2 RS PCB v 0.1.1, 2026\nSTELLA-1.2 created by Paul Mirel, NASA Goddard\nPCB Layout by Nathan Eloe, Northwest Missouri State University"
+		(at 105.5 123.5 0)
 		(layer "F.SilkS")
 		(uuid "a56a2110-8baa-437d-aecf-d4ee43ff928d")
 		(effects
