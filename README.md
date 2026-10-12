@@ -4,7 +4,7 @@ These boards are designed to be drop in replacement for the full and half permap
 Not all modules are supported at this time.
 STELLA-1.2 was created by Paul Mirel, NASA Goddard.
 
-These KiCad projects were designed in KiCad 10; if the place you are having your boards fabricated do not support kicad_pcb files, you should generate the Gerber files with the options required by your fabricator, though some "generic" gerber/drl files will be provided in releases (coming soon).
+These KiCad projects were designed in KiCad 10; if the place you are having your boards fabricated do not support kicad_pcb files, you should generate the Gerber files with the options required by your fabricator, though some "generic" gerber/drl files will be provided at milestones in [Releases](https://github.com/neloe/stella-1.2-pcbs/releases).
 
 ## Assembly Instruction
 
