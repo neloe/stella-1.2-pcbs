@@ -8,10 +8,11 @@ These KiCad projects were designed in KiCad 10; if the place you are having your
 
 ## Assembly Instruction
 
-You will require the same BOM as the full project, with the exception of the permaproto boards and wire.
-The boards try to be as self documenting as possible with the silk screens.
+You will need the same BOM as the full project, with the exception of the permaproto boards and wire.
+The boards try to be as self documenting as possible with the silkscreens.
 On the base board the build instructions have you placing components on both sides of the board.
 The correct orientation and side is indicated with the silkscreens; a component's outline appears on the side of the board on which it should be placed; see the renderings below for an example.
+On most components a pin (usually VCC/Vin/3v3 or GND) has been explicitly labelled; make sure that pin matches up with your breakout board.
 
 Some boards have multiple footprints for the same component.
 This includes (but may not be limited to in the future):
